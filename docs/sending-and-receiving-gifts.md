@@ -39,3 +39,4 @@ Gift links will expire after 48 hours, but you can always generate another one!
 ---
 
 If you experience any issues with sending or receiving gifts please contact our staff team by sending a DM to our ModMail bot on [Discord](https://discord.gg/UFQfD6ThVF).
+ng issue. 
